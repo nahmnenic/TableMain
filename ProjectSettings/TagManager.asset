@@ -3,7 +3,34 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Action
+  - AutoCrouch
+  - Ragdoll
+  - Ignore Ragdoll
+  - Boss
+  - Enemy
+  - CompanionAI
+  - Weapon
+  - LookAt
+  - Dirt
+  - Wood
+  - Metal
+  - Concrete
+  - Glass
+  - Water
+  - LadderTrigger
+  - ExitWater
+  - Barrel
+  - FreeClimb
+  - ClimbDirection
+  - Zipline
+  - PlayerUI
+  - Collectable
+  - CoverPoint
+  - Interactable
+  - AIAction
+  - AimArea
   layers:
   - Default
   - TransparentFX
@@ -13,6 +40,19 @@ TagManager:
   - UI
   - 
   - 
+  - Player
+  - Enemy
+  - CompanionAI
+  - Triggers
+  - Wall
+  - Interaction
+  - Posion
+  - Slowly
+  - Pool
+  - AimArea
+  - 
+  - Bullet
+  - BulletEnemy
   - 
   - 
   - 
@@ -23,20 +63,7 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - PostProcess
   m_SortingLayers:
   - name: Default
     uniqueID: 0
